@@ -33,7 +33,6 @@ const quotes = [{
 
 
 
-
 let btn = document.querySelector("#Qbtn");
 
 let quote = document.querySelector(".quote");
